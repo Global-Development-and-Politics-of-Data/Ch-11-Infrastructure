@@ -46,7 +46,9 @@ All of the files within this repository are Microsoft Excel workbooks. Some CSV 
 * Exercise 2.3: Visualizing Infrastructure Data and Mapping Regional Data.
 
 ## License
-*See LICENSE doc for details. NOTE - PULL FROM POVERTY CH* 
+[Open Science Framework (OSF)](https://osf.io/5e9j3/)
 
 ## Acknowledgements
+[Zotero](https://www.zotero.org/groups/2509438/prp_2021_global_development/collections/ZHRBM6RD)
+
 Thank you to our colleagues in the [LBJ School](https://lbj.utexas.edu/)'s Data for Development PRP and our leaders: [Dr. Catherine Weaver](https://lbj.utexas.edu/weaver-catherine), [Dr. Ji Ma](https://lbj.utexas.edu/ma-ji), and Janet McLaren.
