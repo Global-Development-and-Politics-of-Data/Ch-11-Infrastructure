@@ -28,6 +28,8 @@ Downloaded: April 2021
 
 **Metadata:** [SDG Metadata Repository](https://unstats.un.org/sdgs/metadata/), [UN Habitat 11.2.1](https://www.arcgis.com/sharing/rest/content/items/04c64cb5553843b8a644af6429b6633c/info/metadata/metadata.xml?format=default&output=html)
 
+**[Zotero](https://www.zotero.org/groups/2509438/prp_2021_global_development/collections/ZHRBM6RD)**
+
 ## Organization
 All of the files within this repository are Microsoft Excel workbooks. Some CSV files are included in the raw data folder for users who prefer to use an open-source platform such as R or Python.
 
@@ -49,6 +51,4 @@ All of the files within this repository are Microsoft Excel workbooks. Some CSV 
 [Open Science Framework (OSF)](https://osf.io/5e9j3/)
 
 ## Acknowledgements
-[Zotero](https://www.zotero.org/groups/2509438/prp_2021_global_development/collections/ZHRBM6RD)
-
 Thank you to our colleagues in the [LBJ School](https://lbj.utexas.edu/)'s Data for Development PRP and our leaders: [Dr. Catherine Weaver](https://lbj.utexas.edu/weaver-catherine), [Dr. Ji Ma](https://lbj.utexas.edu/ma-ji), and Janet McLaren.
