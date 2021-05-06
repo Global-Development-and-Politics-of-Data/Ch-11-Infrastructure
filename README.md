@@ -42,10 +42,10 @@ All of the files within this repository are Microsoft Excel workbooks. Some CSV 
 
 ## Exercises
 * Exercise 1: Infrastructure Data “Mash-Up”;
-* Exercise 2.1: Interpreting Infrastructure Indicators;
+* Exercise 2: Interpreting Infrastructure Indicators;
 * *optional advanced work - Calculating a composite score;*
-* Exercise 2.2: Tipping the scales;
-* Exercise 2.3: Visualizing Infrastructure Data and Mapping Regional Data.
+* Exercise 3: Tipping the scales;
+* Exercise 4: Visualizing Infrastructure Data and Mapping Regional Data.
 
 For this exercise, you are expected to know a few Excel functions. Here is a list of the necessary arguments within the parentheses:
 
