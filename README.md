@@ -49,10 +49,10 @@ All of the files within this repository are Microsoft Excel workbooks. Some CSV 
 
 For this exercise, you are expected to know a few Excel functions. Here is a list of the necessary arguments within the parentheses:
 
-VLOOKUP - (value you are searching for, array where you are searching, column within the array to for the value, TRUE for close match or FALSE for exact match)
-AGGREGATE (function [sum, average, median, count], what to do when you come across an error [select 6], array to base your calculations from) 
-COUNTIF - (array where you are searching, what value/string you are searching for)
-CONCAT - combines argument value 1 and value 2.
+* VLOOKUP - (value you are searching for, array where you are searching, column within the array to for the value, TRUE for close match or FALSE for exact match)
+* AGGREGATE (function [sum, average, median, count], what to do when you come across an error [select 6], array to base your calculations from) 
+* COUNTIF - (array where you are searching, what value/string you are searching for)
+* CONCAT - combines argument value 1 and value 2.
 
 You can also find tutorials on Excel/Sheets on [Datacamp](https://www.datacamp.com/tracks/spreadsheet-fundamentals) or [Microsoft Office Support](https://support.microsoft.com/en-us/excel).
 
