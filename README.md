@@ -43,7 +43,7 @@ All of the files within this repository are Microsoft Excel workbooks. Some CSV 
 ## Exercises
 * Exercise 1: Infrastructure Data “Mash-Up”;
 * Exercise 2: Interpreting Infrastructure Indicators;
-* *optional advanced work - Calculating a composite score;*
+ * *optional advanced work - Calculating a composite score;*
 * Exercise 3: Tipping the scales;
 * Exercise 4: Visualizing Infrastructure Data and Mapping Regional Data.
 
