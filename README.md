@@ -53,6 +53,7 @@ For this exercise, you are expected to know a few Excel functions. Here is a lis
 * AGGREGATE (function [sum, average, median, count], what to do when you come across an error [select 6], array to base your calculations from) 
 * COUNTIF - (array where you are searching, what value/string you are searching for)
 * CONCAT - combines argument value 1 and value 2.
+* PERCENTILE - (array, number representing the nth percentile)
 
 You can also find tutorials on Excel/Sheets on [Datacamp](https://www.datacamp.com/tracks/spreadsheet-fundamentals) or [Microsoft Office Support](https://support.microsoft.com/en-us/excel).
 
