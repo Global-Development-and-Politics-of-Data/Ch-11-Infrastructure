@@ -3,7 +3,7 @@
 This is the repository for Chapter 11 - Infrastructure of the Data for Development Policy Research Project (PRP)
 
 ## Abstract
-The primary purpose of our data module is to introduce textbook users to global infrastructure data. The following excercises highlight how infrastructure data is susceptible to the politics of data because infrastructure lacks a clear definition; can be interpreted at the regional, state, subnational, and city level; and sources a variety of data within weighted aggregate indexes. 
+The primary purpose of our data module is to introduce textbook users to global infrastructure data. The following excercises highlight how infrastructure data is susceptible to the politics of numbers because infrastructure lacks a clear definition; can be interpreted at the regional, state, subnational, and city level; and sources a variety of data within weighted aggregate indexes. 
 
 Users will learn how to manipulate, clean, analyze, and visualize data in Microsoft Excel. The module aims to teach users good data management practices when merging multiple datasets from sources that use varying methodologies. Users should understand the importance of matching data types and methodologies and will learn how to match primary keys for relational databases. The metadata behind the indicators also reveals whether the data is intended for top-down market oriented development purposes or if the indicator reflects a holistic, pro-poor approach. The module highlights how the choice of indicators and statistical weights may influence the analytical results of a single score composite index for a complicated issue area.
 
